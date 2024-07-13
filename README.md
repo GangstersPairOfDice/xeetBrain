@@ -23,9 +23,18 @@ Your X data -> xeetBrain -> Obsidian vault
 Notes
 ---
 
-As of writing this, I only plan on making it work with X, until I transfer my thoughts to a local [Mastodon](https://github.com/mastodon/mastodon) node. Mastodon is basically an open-source X / Twitter.
+As of writing this, I only plan on making it work with X, until I transfer my thoughts to a local [Mastodon](https://github.com/mastodon/mastodon) node. Mastodon is basically an open-source X / Twitter. You are always welcome to fork or submit a pull request.
 
 To Do
 ---
-test
+
+ - [ ] Input -> System -> Output
+ - [x] Input = X Data
+ - [ ] System = xeetBrain
+    - [ ] Figure out what data we need
+    - [ ] Load data into xeetBrain
+    - [ ] Parse data
+    - [ ] Translate into markdown for obsidian graph view
+    - [ ] Make sure all the xeets are linked together
+ - [ ] Output = Obsidian vault with linked xeets
 
