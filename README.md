@@ -31,10 +31,14 @@ To Do
  - [ ] Input -> System -> Output
  - [x] Input = X Data
  - [ ] System = xeetBrain
-    - [ ] Figure out what data we need
+    - [x] Figure out what data we need
     - [ ] Load data into xeetBrain
     - [ ] Parse data
     - [ ] Translate into markdown for obsidian graph view
     - [ ] Make sure all the xeets are linked together
  - [ ] Output = Obsidian vault with linked xeets
 
+Edge cases
+ - [ ] Linear xeets
+ - [ ] Replies to your own xeet
+ - [ ] Quotes to your own xeet
