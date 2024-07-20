@@ -38,15 +38,17 @@ To Do
       - [ ] Button that says 'Convert' that activates converter function
    - [ ] Output: a box that contains a .zip archive of all your xeets in markdown format
 - [ ] Backend (converter function):  
-   - [ ] Input -> Load data from drop box into converter function
+   - [ ] Input:
+      - [ ] Load data from drag'n'drop into converter function
    - [ ] System:
       - [ ] parse & clean data
-      - [ ] extract all the necessary data
+      - [ ] extract all the necessary info
       - [ ] put it into markdown format
       - [ ] backlink all relevant xeets to eachother
-      - [ ] zip all the xeets
+      - [ ] zip everything
    - [ ] Output:
-      - [ ] a .zip archve of all your xeets, linked together, in markdown format
+      - [ ] a .zip archive of all your xeets, linked together, in markdown format
+
 Edge cases
  - [ ] Linear xeets
  - [ ] Replies to your own xeet
