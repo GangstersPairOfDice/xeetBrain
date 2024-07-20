@@ -46,7 +46,7 @@ To Do
       - [ ] backlink all relevant xeets to eachother
       - [ ] zip all the xeets
    - [ ] Output:
-      - a .zip archve of all your xeets, linked together, in markdown format
+      - [ ] a .zip archve of all your xeets, linked together, in markdown format
 Edge cases
  - [ ] Linear xeets
  - [ ] Replies to your own xeet
